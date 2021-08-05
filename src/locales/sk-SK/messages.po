@@ -63,7 +63,7 @@ msgstr "Akcie"
 msgid "Add"
 msgstr "Pridať"
 
-#: src/components/wallet/create/createDIDWallet.js:286
+#: src/components/wallet/create/createDIDWallet.js:287
 #: src/components/wallet/did/DIDWallet.js:875
 msgid "Add Backup ID"
 msgstr ""
@@ -410,7 +410,7 @@ msgid "Copy to Clipboard"
 msgstr "Skopírovať do schránky"
 
 #: src/components/backup/BackupCreate.tsx:78
-#: src/components/wallet/create/createDIDWallet.js:267
+#: src/components/wallet/create/createDIDWallet.js:268
 #: src/components/wallet/create/createExistingColouredCoin.jsx:141
 #: src/components/wallet/create/createNewColouredCoin.jsx:148
 #: src/components/wallet/create/createRLAdmin.jsx:333
@@ -524,7 +524,7 @@ msgstr "Oneskorenie"
 #: src/components/plot/queue/PlotQueueActions.tsx:86
 #: src/components/selectKey/SelectKey.tsx:61
 #: src/components/selectKey/SelectKey.tsx:82
-#: src/components/wallet/create/createDIDWallet.js:313
+#: src/components/wallet/create/createDIDWallet.js:314
 #: src/components/wallet/did/DIDWallet.js:902
 msgid "Delete"
 msgstr "Zmazať"
