@@ -3,10 +3,11 @@
 
 
 ![GitHub contributors](https://img.shields.io/github/contributors/Chia-Network/chia-blockchain?logo=GitHub)
-This is the GUI for chia-blockchain. It is forked from chia-blockchain repository.
+
 
 Please check out the [wiki](https://github.com/Chia-Network/chia-blockchain/wiki)
 
+This is the GUI for chia-blockchain. It is forked from chia-blockchain repository.
 ## Prerequisite
 
  -Latest Node
