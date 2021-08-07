@@ -7,8 +7,13 @@
 
 Please check out the [wiki](https://github.com/Chia-Network/chia-blockchain/wiki)
 
+## Prerequisite
+-Latest Node
+-daemon folder(app.asar.unpacked) from chia installation 
 
 ## Installing
+-yarn install
+-npm run dev
 
 This is the GUI for chia-blockchain. It is forked from chia-blockchain repository.
 
