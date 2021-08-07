@@ -1,13 +1,12 @@
 # Chia-blockchain-GUI-Forked
 ![Alt text](https://avatars.githubusercontent.com/u/34047804?s=200&v=4)
-
+This is a forked release. 
 
 
 ![GitHub contributors](https://img.shields.io/github/contributors/Chia-Network/chia-blockchain?logo=GitHub)
 
 Please check out the [wiki](https://github.com/Chia-Network/chia-blockchain/wiki)
-and [FAQ](https://github.com/Chia-Network/chia-blockchain/wiki/FAQ) for
-information on this project.
+
 
 ## Installing
 
