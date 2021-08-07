@@ -12,6 +12,7 @@ Please check out the [wiki](https://github.com/Chia-Network/chia-blockchain/wiki
 -daemon folder(app.asar.unpacked) from chia installation 
 
 ## Installing
+
 -yarn install
 -npm run dev
 
