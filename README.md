@@ -1,5 +1,5 @@
 # Chia-blockchain-GUI-Forked
-![Alt text](https://avatars.githubusercontent.com/u/34047804?s=200&v=4)   ![Alt text](https://s2.coinmarketcap.com/static/img/coins/200x200/9258.png)
+![Alt text](https://avatars.githubusercontent.com/u/34047804?s=200&v=4)   ![Alt text](https://d1hbpr09pwz0sk.cloudfront.net/logo_url/chia-network-d4620773)
 
 
 ![GitHub contributors](https://img.shields.io/github/contributors/Chia-Network/chia-blockchain?logo=GitHub)
