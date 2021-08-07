@@ -1,7 +1,7 @@
 # chia-blockchain-GUI-Forked
-![Alt text](https://www.chia.net/img/chia_logo.svg)
+![Alt text](https://www.chia.net/img/chia_logo.svg) ![Alt text](https://avatars.githubusercontent.com/u/34047804?s=200&v=4)
 
-![Alt text](https://avatars.githubusercontent.com/u/34047804?s=200&v=4)
+
 
 ![GitHub contributors](https://img.shields.io/github/contributors/Chia-Network/chia-blockchain?logo=GitHub)
 
