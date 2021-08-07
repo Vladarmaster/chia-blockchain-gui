@@ -8,7 +8,7 @@
 Please check out the [wiki](https://github.com/Chia-Network/chia-blockchain/wiki)
 
 ## Prerequisite
--Latest Node
+#-Latest Node
 -daemon folder(app.asar.unpacked) from chia installation 
 
 ## Installing
