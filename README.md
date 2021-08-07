@@ -9,7 +9,7 @@ This is the GUI for chia-blockchain. It is forked from chia-blockchain repositor
 
 ## Prerequisite
 
- -Latest Node
+ -latest Node
  
  -daemon folder(app.asar.unpacked) from chia installation 
 
