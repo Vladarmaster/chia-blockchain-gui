@@ -1,4 +1,4 @@
-# chia-blockchain-GUI-Forked
+# Chia-blockchain-GUI-Forked
 ![Alt text](https://avatars.githubusercontent.com/u/34047804?s=200&v=4)
 
 
