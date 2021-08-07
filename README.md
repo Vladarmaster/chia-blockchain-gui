@@ -20,8 +20,7 @@ Please check out the [wiki](https://github.com/Chia-Network/chia-blockchain/wiki
 -npm run dev
 
 
-
-!This is the GUI for chia-blockchain. It is forked from chia-blockchain repository.
+This is the GUI for chia-blockchain. It is forked from chia-blockchain repository.
 
 
 
