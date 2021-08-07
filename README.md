@@ -1,6 +1,8 @@
 # chia-blockchain-forked
 ![Alt text](https://www.chia.net/img/chia_logo.svg)
 
+https://www.chia.net/android-chrome-384x384.png
+
 ![GitHub contributors](https://img.shields.io/github/contributors/Chia-Network/chia-blockchain?logo=GitHub)
 
 Please check out the [wiki](https://github.com/Chia-Network/chia-blockchain/wiki)
