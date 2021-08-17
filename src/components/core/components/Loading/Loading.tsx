@@ -1,52 +1,20 @@
-import React, { ReactNode } from 'react';
-import {
-  CircularProgress,
-  CircularProgressProps,
-  Typography,
-} from '@material-ui/core';
-import styled from 'styled-components';
-import Flex from '../Flex';
+import React from 'react';
+import Skeleton from '@material-ui/lab/Skeleton';
+import { makeStyles } from '@material-ui/core/styles';
 
-const StyledCircularProgress = styled(CircularProgress)`
-  color: ${({ theme }) =>
-    theme.palette.type === 'dark' ? 'white' : 'inherit'}; ;
-`;
+const useStyles = makeStyles({
+  root: {
+    width: 300,
+  },
+});
 
-type Props = CircularProgressProps & {
-  children?: ReactNode;
-  center?: boolean;
-};
-
-export default function Loading(props: Props) {
-  const { children, center, ...rest } = props;
-
-  if (children) {
-    return (
-      <Flex flexDirection="column" gap={1} alignItems="center">
-        <StyledCircularProgress {...rest} />
-        <Typography variant="body1" align="center">
-          {children}
-        </Typography>
-      </Flex>
-    );
-  }
-
-  if (center) {
-    return (
-      <Flex
-        flexDirection="column"
-        gap={1}
-        alignItems="center"
-      >
-        <StyledCircularProgress {...rest} />
-      </Flex>
-    );
-  }
-
-  return <StyledCircularProgress {...rest} />;
+export default function Animations() {
+  const classes = useStyles();
+  return (
+    <div className={classes.root}>
+      <Skeleton />
+      <Skeleton animation={false} />
+      <Skeleton animation="wave" />
+    </div>
+  );
 }
-
-Loading.defaultProps = {
-  children: undefined,
-  center: false,
-};
