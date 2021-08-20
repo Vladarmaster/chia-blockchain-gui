@@ -23,4 +23,4 @@ This is the GUI for chia-blockchain. It is forked from chia-blockchain repositor
 Once installed, a
 [Quick Start Guide](https://github.com/Chia-Network/chia-blockchain/wiki/Quick-Start-Guide)
 is available from the repository
-[wiki](https://github.com/Chia-Network/chia-blockchain/wiki).
+[wiki](https://github.com/Chia-Network/chia-blockchain/wiki)
