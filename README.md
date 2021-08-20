@@ -11,7 +11,7 @@ This is the GUI for chia-blockchain. It is forked from chia-blockchain repositor
 
  -latest Node
  
- -daemon folder(app.asar.unpacked) from chia installation 
+ -daemon folder(app.asar.unpacked) 
 
 ## Installing
 
