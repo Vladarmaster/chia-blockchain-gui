@@ -38,7 +38,6 @@
     "@nivo/core": "^0.72.0",
     "@nivo/line": "^0.72.0",
     "@rehooks/local-storage": "2.4.0",
-    "animejs": "^3.2.1",
     "bech32": "^2.0.0",
     "big.js": "^6.1.1",
     "byte-size": "^7.0.1",
